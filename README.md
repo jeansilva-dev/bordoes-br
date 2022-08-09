@@ -1,7 +1,7 @@
 
 # Bordões BR
 
-Aplicação desenvolvida em ReactJS que lista e reproduz alguns bordões famosos da tv e internet.
+Aplicação desenvolvida em ReactJS que lista e reproduz alguns bordões famosos da TV e internet.
 
 ## Demo
 Acesse: https://bordoes-br.vercel.app
@@ -9,7 +9,7 @@ Acesse: https://bordoes-br.vercel.app
 ![App Screenshot](https://ik.imagekit.io/nl4kkw4a0/bordoes-br_NrjKQRK6R.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660033249191)
 
 
-## Instação
+## Instalação
 
 Clone esse repositório do GitHub na sua máquina:
 
