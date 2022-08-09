@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Tome",
+        "audio_source": "./assets/audio_1.m4a"
+    },
+    {
+        "title": "Tapa",
+        "audio_source": "./assets/audio_2.m4a"
+    },
+    {
+        "title": "Ai",
+        "audio_source": "./assets/audio_3.m4a"
+    },
+    {
+        "title": "Não",
+        "audio_source": "./assets/audio_4.m4a"
+    },
+    {
+        "title": "Uuuuui",
+        "audio_source": "./assets/audio_5.m4a"
+    },
+    {
+        "title": "Dimaaaaais",
+        "audio_source": "./assets/audio_6.m4a"
+    },
+    {
+        "title": "Ele Gosta",
+        "audio_source": "./assets/audio_7.m4a"
+    },
+    {
+        "title": "Cavalo",
+        "audio_source": "./assets/audio_8.m4a"
+    },
+    {
+        "title": "Dança Gatinho",
+        "audio_source": "./assets/audio_9.m4a"
+    },
+    {
+        "title": "Abruauhbrua",
+        "audio_source": "./assets/audio_10.m4a"
+    },
+    {
+        "title": "Aiaiai",
+        "audio_source": "./assets/audio_11.m4a"
+    },
+    {
+        "title": "Ai Mamãe",
+        "audio_source": "./assets/audio_12.m4a"
+    },
+    {
+        "title": "Que isso meu filho, calma",
+        "audio_source": "./assets/audio_13.m4a"
+    },
+    {
+        "title": "Cheeegaa",
+        "audio_source": "./assets/audio_14.m4a"
+    },
+    {
+        "title": "Xiii",
+        "audio_source": "./assets/audio_15.m4a"
+    }
+]
